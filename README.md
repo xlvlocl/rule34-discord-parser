@@ -3,7 +3,7 @@
 
 ## Использование
 
-Скачайте репозиторий и измените данные в config.py на свои.
+Скачайте репозиторий (`git clone https://github.com/xlvlocl/rule34-discord-parser`) и измените данные в config.py на свои.
 Затем напишите в консоль
 ```py 
 py main.py
